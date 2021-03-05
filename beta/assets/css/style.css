@@ -132,7 +132,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #4154f1;
+  background: #00AEB5;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -146,7 +146,7 @@ section {
 }
 
 .back-to-top:hover {
-  background: #6776f4;
+  background: #00AEB5;
   color: #fff;
 }
 
@@ -184,8 +184,8 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
-  margin-right: 6px;
+  max-height: 100px;
+  margin-right: 10px;
 }
 
 .header .logo span {
@@ -2274,7 +2274,7 @@ section {
 }
 
 .footer .footer-top .footer-info .logo img {
-  max-height: 40px;
+  max-height: 100px;
   margin-right: 6px;
 }
 
