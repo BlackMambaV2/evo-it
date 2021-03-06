@@ -1415,7 +1415,7 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: rgba(1, 41, 112, 0.5);
+  color: #00AEB5;
   margin: 15px 12px;
   display: block;
   line-height: 0;
@@ -1423,7 +1423,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: rgba(1, 41, 112, 0.8);
+  color: #60c7ca;
 }
 
 .team .member .social i {
@@ -1438,14 +1438,14 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #012970;
+  color: #00AEB5;
 }
 
 .team .member .member-info span {
   display: block;
   font-size: 14px;
   font-weight: 400;
-  color: #aaaaaa;
+  color: ##444444;
 }
 
 .team .member .member-info p {
@@ -2361,7 +2361,7 @@ section {
 .footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: #012970;
+  color: #444444;
 }
 
 .footer .credits {
