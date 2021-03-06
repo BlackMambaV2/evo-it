@@ -157,7 +157,7 @@ div.dataTables_scrollBody table.table-sm thead .sorting_asc:before {
 }
 
 table#logs tr {
-	font-family: monospace !important;
+	font-family: 'Rubik', sans-serif;
 }
 
 .nopadding {
@@ -223,7 +223,7 @@ div.dropzone {
 
 .swal2-container {
 	zoom: 1.2;
-	font-family: 'Open Sans', sans-serif !important;
+	font-family: 'Rubik', sans-serif;
 }
 
 .validation-box {
@@ -432,7 +432,7 @@ table.validations-table {
 }
 
 .valid-rep-table td.mono {
-	font-family: 'PT Mono', monospace;
+	font-family: 'Rubik', sans-serif;
 }
 
 input.input-nb-taux {
@@ -449,7 +449,7 @@ input.input-nb-taux {
 }*/
 
 .mono {
-	font-family: 'PT Mono', monospace;
+	font-family: 'Rubik', sans-serif;
 }
 
 /* Disable safari crap */
