@@ -804,20 +804,20 @@ section {
 }
 
 .services .service-box.blue {
-  border-bottom: 3px solid #2db6fa;
+  border-bottom: 3px solid #00aeb5;
 }
 
 .services .service-box.blue .icon {
-  color: #2db6fa;
+  color: #00aeb5;
   background: #dbf3fe;
 }
 
 .services .service-box.blue .read-more {
-  color: #2db6fa;
+  color: #00aeb5;
 }
 
 .services .service-box.blue:hover {
-  background: #2db6fa;
+  background: #00aeb5;
 }
 
 .services .service-box.orange {
