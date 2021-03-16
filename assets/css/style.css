@@ -1071,8 +1071,8 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #4154f1;
-  border-color: #4154f1;
+  color: #00aeb5;
+  border-color: #00aeb5;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1341,11 +1341,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #4154f1;
+  border: 1px solid #00aeb5;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #4154f1;
+  background-color: #00aeb5;
 }
 
 .testimonials .swiper-slide {
